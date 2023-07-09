@@ -13,7 +13,7 @@ Majority of the project was HTML and CSS
 
 Images of the website below
 
-![picture3](assets/pic1.png.png)
+![picture3](assets/pic1.png)
 ![picture2](assets/pic2.png)
 ![Picture1](assets/pic3.png)
 
