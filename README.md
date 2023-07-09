@@ -9,4 +9,4 @@ Created a 3 image slider which runs on JS
 
 I used https://swiperjs.com/get-started
 
-Images of the websute below
+Images of the website below
