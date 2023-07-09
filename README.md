@@ -7,6 +7,14 @@
 
 Created a 3 image slider which runs on JS
 
-I used https://swiperjs.com/get-started
+I used https://swiperjs.com/get-started to help with the slide
+
+Majority of the project was HTML and CSS
 
 Images of the website below
+
+![picture3](assets/pic1.png.png)
+![picture2](assets/pic2.png)
+![Picture1](assets/pic3.png)
+
+Thank you
